@@ -1,0 +1,8 @@
+apache-airflow==2.6.2
+matplotlib
+mlflow
+openpyxl
+pandas
+scikit_learn
+seaborn
+whylogs
